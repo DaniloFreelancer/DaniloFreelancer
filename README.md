@@ -73,7 +73,7 @@
 
 #### 💼 Portfolio Website
 Personal site with intro animation, typewriter effect, and sound integration  
-🔗 [Live](https://yourportfolio.com) | 💻 [Repo](https://github.com/yourusername/portfolio)
+🔗 [Live](https://danylohorokhov.netlify.app/) | 💻 [Repo](https://github.com/DaniloFreelancer/DaniloFreelancer)
 
 ###
 <div align="center" gap="10">
